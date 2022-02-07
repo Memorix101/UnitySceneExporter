@@ -1,0 +1,8 @@
+lvl1
+# rotation in quaternion
+null,Main Camera,MainCamera,0,1,-10,0,0,0,1,1,1,1
+null,Directional Light,Untagged,0,0,0,0,0,0,1,1,1,1
+null,GameObject,Untagged,0,0,0,0,0,0,1,1,1,1
+Tank.fbx,Tank,Untagged,-4.09,0,0,2.185569E-08,0,0,1,0.01,0.01,0.01
+cube.obj,cube,Untagged,4.5,0,0,0.0734028,0.3288803,-0.2050905,-0.9189057,1,1,1
+sedanSports.obj,sedanSports,Untagged,0.1488517,0.0277926,0.003869957,-0.03281305,0.174916,-0.1814347,-0.9671655,1,1,1

@@ -1,0 +1,7 @@
+lvl1
+# rotation in degrees
+null,Main Camera,MainCamera,0,1,-10,0,0,0,1,1,1
+null,Directional Light,Untagged,0,3,0,50,330,0,1,1,1
+null,GameObject,Untagged,0,0,0,0,0,0,1,1,1
+sedanSports.obj,sedanSports,Untagged,0.1488517,0.0277926,0.003869957,7.292973,340.7858,20.01368,1,1,1
+cube.obj,cube,Untagged,4.5,0,0,-8.537737E-07,320.615,25.16327,1,1,1

@@ -1,0 +1,7 @@
+lvl1
+# rotation in xna quaternion
+null,Main Camera,MainCamera,0,1,-10,0,0,0,1,1,1,1
+null,Directional Light,Untagged,0,3,0,0.4082179,-0.2345697,0.1093816,0.8754261,1,1,1
+null,GameObject,Untagged,0,0,0,0,0,0,1,1,1,1
+sedanSports.obj,sedanSports,Untagged,0.1488517,0.0277926,0.003869957,0.03281314,-0.1749155,0.1814347,0.9671656,1,1,1
+cube.obj,cube,Untagged,4.5,0,0,-0.07340278,-0.3288803,0.2050905,0.9189057,1,1,1

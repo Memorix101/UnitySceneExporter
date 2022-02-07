@@ -1,0 +1,5 @@
+lvl1
+# model name tag pos rot scale
+cube.obj,cube,tag,24.5,0,7.333,0,2,0,1,1,1
+star.obj,star,player,55.3,4,8.333,0,12,0,1,1,1
+ball.obj,ball,enemy,3.4,4,128.3,0,12.5,0,1,1,1

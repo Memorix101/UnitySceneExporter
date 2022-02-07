@@ -1,0 +1,18 @@
+lvl1
+# rotation in quaternion
+null,Main Camera,MainCamera,-1.1,9.3,-55.9,0,0,0,1,1,1,1
+Dunes01.fbx,Dunes01,Untagged,0,0,0,0,0,0,1,0.01,0.01,0.01
+Terrain.fbx,Terrain,Untagged,0,0,0,0,0,0,1,0.01,0.01,0.01
+Dunes01.fbx,Dunes01 (1),Untagged,27.3711,0.006462096,-20.32004,0,0,0,1,0.01,0.01,0.01
+Dunes01.fbx,Dunes01 (2),Untagged,33.78403,0.006462096,21.34641,0,0,0,1,0.01,0.01,0.01
+PalmTree.fbx,PalmTree,Untagged,28.92466,0,-22.65792,0,0,0,1,0.01,0.01,0.01
+PalmTree.fbx,PalmTree (1),Untagged,34.66367,0,21.48994,0,0,0,1,0.01,0.01,0.01
+PalmTree.fbx,PalmTree (2),Untagged,-2.332695,0,-1.458414,0,0,0,1,0.01,0.01,0.01
+Column02.FBX,Column02,Untagged,-2.849274,1.1,24.1,2.185569E-08,0,0,1,0.01,0.01,0.01
+Column02.FBX,Column02 (1),Untagged,42.52236,1.1,-36.82793,-1.591127E-08,0.6855604,1.498342E-08,-0.7280158,0.01,0.01,0.01
+Tree.fbx,Tree,Untagged,-29.96066,0,-27.93108,0,0,0,1,0.01,0.01,0.01
+Building02.fbx,Building02,Untagged,23.62565,0.07837854,-4.160146,2.185569E-08,0,0,1,0.01,0.01,0.01
+Radar.fbx,Radar,Untagged,-30.60667,0.0955841,-13.02545,0,0,0,1,0.01,0.01,0.01
+Cow.fbx,Cow,Untagged,6.225244,0.09653091,-18.94881,0,0.3695042,0,-0.9292291,0.01,0.01,0.01
+Tank.fbx,Tank,Untagged,10.77014,0.02616842,-19.80503,2.185569E-08,0,0,1,0.01,0.01,0.01
+null,Directional Light,Untagged,0,0,0,0,0,0,1,1,1,1
