@@ -5,6 +5,7 @@ Custom scene exporter to export Unity created scenes into other engines and fram
 
 - Exports scenes from Unity to custom scene format
 - Imports exported scenes into Unity
+- Loaders in C#, C++ and Java
 - Examples for raylib, MonoGame and Irrlicht using exported custom scene format
 - Rotations are exported in degrees (degree to radiant conversion: `rot.x * PI/180`) or quaternion
 - Default assets folder for other engines is `assets`
@@ -24,5 +25,4 @@ lvl1
 cube.obj,cube,tag,24.5,0,7.333,0,2,0,1,1,1
 star.obj,star,player,55.3,4,8.333,0,12,0,1,1,1
 ball.obj,ball,enemy,3.4,4,128.3,0,12.5,0,1,1,1
-
 ```
