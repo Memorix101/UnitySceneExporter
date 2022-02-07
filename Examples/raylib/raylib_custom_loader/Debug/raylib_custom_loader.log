@@ -1,0 +1,20 @@
+﻿  main.cpp
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(61,22): warning C4018: '<': signed/unsigned mismatch
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(79,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(83,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(87,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(91,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(95,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(99,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(103,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(107,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\raylib_custom_loader\main.cpp(111,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+raylib.lib(rcore.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rcore.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rmodels.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rmodels.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rshapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rshapes.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rtext.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtext.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(rtextures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtextures.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib.pdb'; linking object as if no debug info
+  raylib_custom_loader.vcxproj -> E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\raylib\Debug\raylib_custom_loader.exe

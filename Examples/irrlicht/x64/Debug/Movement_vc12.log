@@ -1,0 +1,12 @@
+﻿  main.cpp
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(120,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(124,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(128,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(132,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(136,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(140,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(144,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(148,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(152,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\main.cpp(156,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Movement_vc12.vcxproj -> E:\Google Drive\Dev Stuff\Projects\CustomLevelLoader\Example\irrlicht\04.Movement.exe
