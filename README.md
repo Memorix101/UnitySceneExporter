@@ -1,6 +1,6 @@
-# Custom Scene Exporter
+# Unity Scene Exporter
 
-Custom scene exporter to export Unity created scenes into other engines and frameworks.
+Unity scene exporter to export created scenes into other engines and frameworks
 ![image](https://user-images.githubusercontent.com/1466920/152702332-dce4997b-219e-4ef6-bcf1-7001027dad03.png)
 
 - Exports scenes from Unity to custom scene format
